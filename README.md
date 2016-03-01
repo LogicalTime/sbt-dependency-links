@@ -51,7 +51,6 @@ https://dl.bintray.com/sbt/sbt-plugin-releases/de.johoop/jacoco4sbt/scala_2.10/s
 * addSbtPlugin("com.jsuereth" % "sbt-pgp" % "1.0.0")
 https://dl.bintray.com/sbt/sbt-plugin-releases/com.jsuereth/sbt-pgp/scala_2.10/sbt_0.13/1.0.0/jars/sbt-pgp.jar
 https://dl.bintray.com/sbt/sbt-plugin-releases/com.jsuereth/pgp-library/scala_2.10/sbt_0.13/1.0.0/jars/pgp-library.jar
-<dependency name="dispatch-http_2.10" conf="compile->default(compile)" rev="0.8.10" org="net.databinder"/>
 * addSbtPlugin("com.github.gseitz" % "sbt-release" % "1.0.2")
 https://dl.bintray.com/sbt/sbt-plugin-releases/com.github.gseitz/sbt-release/scala_2.10/sbt_0.13/1.0.3/jars/sbt-release.jar
 
