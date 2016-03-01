@@ -5,19 +5,19 @@ links to dependencies needed by some sbt plugins
 https://bintray.com/sbt/sbt-plugin-releases
 
 Maven Dependencies
-### addSbtPlugin("org.brianmckenna" % "sbt-wartremover" % "0.14")
+..* addSbtPlugin("org.brianmckenna" % "sbt-wartremover" % "0.14")
 http://central.maven.org/maven2/org/brianmckenna/sbt-wartremover_2.10_0.13/0.14/sbt-wartremover-0.14.jar
 (no dependency)
-### addSbtPlugin("org.scalastyle" %% "scalastyle-sbt-plugin" % "0.8.0")
+..* addSbtPlugin("org.scalastyle" %% "scalastyle-sbt-plugin" % "0.8.0")
 http://central.maven.org/maven2/org/scalastyle/scalastyle-sbt-plugin_2.10_0.13/0.8.0/scalastyle-sbt-plugin-0.8.0.jar
 (need dep)
 http://central.maven.org/maven2/org/scalastyle/scalastyle_2.10/0.8.0/scalastyle_2.10-0.8.0.jar
 http://central.maven.org/maven2/org/scalastyle/scalastyle_2.10/0.8.0/scalastyle_2.10-0.8.0.pom
 http://central.maven.org/maven2/org/scalariform/scalariform_2.10/0.1.7/scalariform_2.10-0.1.7.jar
 http://central.maven.org/maven2/org/scalariform/scalariform_2.10/0.1.8/scalariform_2.10-0.1.8.jar
-### addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.8.2")
+..* addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.8.2")
 http://central.maven.org/maven2/net/virtual-void/sbt-dependency-graph_2.10_0.13/0.8.2/sbt-dependency-graph-0.8.2.jar
-### addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.3.5")
+..* addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.3.5")
 http://central.maven.org/maven2/org/scoverage/sbt-scoverage_2.10_0.13/1.3.5/sbt-scoverage-1.3.5.jar
 (got this dep)
 http://central.maven.org/maven2/org/scoverage/scalac-scoverage-plugin_2.10/1.1.1/scalac-scoverage-plugin_2.10-1.1.1.jar
